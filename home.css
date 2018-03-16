@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+    background-image: url("news3.jpg");
+    background-repeat: no-repeat;
+    background-size:100%; 
+}
+.form{
+    border: 1px 1px 1px 1px;
+}
